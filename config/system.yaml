@@ -17,7 +17,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: appi
+  theme: clean-blog
   order:
     by: default
     dir: asc
