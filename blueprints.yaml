@@ -1,0 +1,13 @@
+name: Clean Blog
+description: "Grav skeleton for Clean Blog, a Grav theme based on Clean Blog HTML template of Start Bootstrap."
+version: 1.0.0
+icon: edit
+author:
+  name: Hung Tran
+  email: hungtran@peaceofmindwebsite.com
+  url: http://www.peaceofmindwebsite.com
+homepage: https://github.com/tranduyhung/grav-skeleton-clean-blog
+demo: http://www.peaceofmindwebsite.com/skeletons/clean-blog
+keywords: theme, template, bootstrap, clean, blog, responsive, html5
+bugs: https://github.com/tranduyhung/grav-skeleton-clean-blog/issues
+license: MIT
