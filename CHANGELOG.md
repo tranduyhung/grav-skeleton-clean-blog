@@ -1,3 +1,10 @@
+# v1.2.0
+## 16/02/2017
+
+1. [](#improved)
+    * Updated Clean Blog theme, Grav and plugins to latest release.
+
+
 # v1.1.0
 ## 29/1/2017
 
