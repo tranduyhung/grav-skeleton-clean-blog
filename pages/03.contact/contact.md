@@ -43,7 +43,7 @@ form:
         -
             type: submit
             value: THEME_CLEAN_BLOG.CONTACT.SEND
-            classes: btn btn-default
+            classes: btn btn-primary text-uppercase
     process:
         - email:
             from: "{{ config.plugins.email.from }}"
